@@ -12,6 +12,9 @@ public class Main1 {
 
 		
 		// 병합하기 (Fast-forward)
+		
+		
+		// 병합하기 2
 	}
 
 }
