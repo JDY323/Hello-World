@@ -10,6 +10,8 @@ public class Main1 {
 		
 		// 주석2 추가
 
+		
+		// 병합하기 (Fast-forward)
 	}
 
 }
